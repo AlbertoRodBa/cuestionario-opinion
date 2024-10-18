@@ -1,5 +1,12 @@
-{
-  "1": "Es interesante",
-  "2": "JavaScript",
-  "3": "Ambas opciones"
-}
+[
+  {
+    "1": "Es complicado",
+    "2": "Python",
+    "3": "En equipo"
+  },
+  {
+    "1": "No es lo mío",
+    "2": "Otro",
+    "3": "Ambas opciones"
+  }
+]
